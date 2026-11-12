@@ -30,4 +30,3 @@ Para isso, aprenderemos a utilizar o **Node.js**, necessário para aplicar todas
 [Acesse o Figma do Vidflow](https://www.figma.com/file/a0crwitCtGmNIQW0RVIs5H/VidFlow-%7C-Curso-Js---Consumindo-dados-de-uma-API?node-id=0%3A1&mode=dev).
 ```
 
-E você conseguirá acessar o projeto em `http://localhost:5174/` no navegador.
