@@ -28,5 +28,8 @@ Para isso, aprenderemos a utilizar o **Node.js**, necessário para aplicar todas
 ## Link do Figma
 
 [Acesse o Figma do Vidflow](https://www.figma.com/file/a0crwitCtGmNIQW0RVIs5H/VidFlow-%7C-Curso-Js---Consumindo-dados-de-uma-API?node-id=0%3A1&mode=dev).
+
+
+## http://localhost:5174/
 ```
 
